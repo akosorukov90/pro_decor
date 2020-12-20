@@ -22,5 +22,4 @@ if __name__ == '__main__':
     print_name_2('Петр', prop=3)
 
     file_path = os.path.join(os.getcwd(), 'recipes.txt')
-    # pprint(get_shop_list_by_dishes(['Омлет', 'Фахитос'], 2))
     get_shop_list_by_dishes(['Омлет', 'Фахитос'], 2, file_path)
