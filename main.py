@@ -1,6 +1,5 @@
 from logger_1 import logger_1
 from logger_2 import param_logger
-from previous_task.task_2 import cook_book_create
 from previous_task.task_2 import get_shop_list_by_dishes
 import os
 
